@@ -1,23 +1,11 @@
-### Hi there 👋
+### Hi fellow programmers 👋
+I am Udit Ghosh and I like working in the Machine Learning field.
 
-<!--
-**GlobalSmurfWannabeee/GlobalSmurfWannabeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a research publication in the field of data mining
+- 🌱 I’m currently learning Django to deploy my projects
+- 👯 I’m looking to collaborate on machine learning/data science projects
+- 🤔 I’m looking for help with finding ML internships
+- 💬 Ask me about Python, Database, OS, AI
+- 📫 How to reach me: Conect with me on https://www.linkedin.com/in/udit-ghosh-598030110/
+- ⚡ Fun fact: I like gamming and die hard CSGO fan.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-##I have graduated in B.Tech CSE in 2020
-**  I am an avid coder and data scienctist aspirant **
-** Skills Known:**
-*Python
-*Java
-*C++
-*Machine Learning
