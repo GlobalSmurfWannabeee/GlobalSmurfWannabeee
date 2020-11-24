@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##I have graduated in B.Tech CSE in 2020
+**  I am an avid coder and data scienctist aspirant **
+** Skills Known:**
+*Python
+*Java
+*C++
+*Machine Learning
